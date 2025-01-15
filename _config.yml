@@ -12,7 +12,7 @@ title                    : "冈易游戏"
 title_separator          : "-"
 name                     : &name "冈易"
 description              : &description "不媚男，不媚女，只昧良心"
-url                      : https://wysm.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://COLDFISH135.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "邮箱地址@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "COLDFISH135"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
